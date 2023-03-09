@@ -1,6 +1,6 @@
 # Hotel Booking System
 
-This is a backend application for a hotel booking system. It allows users to search for hotels and leave comments.
+This is a backend application for a hotel booking system. It allows users to search for hotels, leave comments, and relevant other.
 
 ## Prerequisites
 
